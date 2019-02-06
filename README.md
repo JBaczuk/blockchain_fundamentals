@@ -16,7 +16,7 @@ This is a self-guided course on basic blockchain concepts and a tutorial for des
 ### [2.4 Addresses](2-Fundamentals/2.4-Addresses.md)
 ### [2.5 Mining](2-Fundamentals/2.4-Mining.md)
 
-# 3 - Development
+## 3 - Development
 
 ### [3.1 Forking](3-Development/3.1-Forking.md)
 ### [3.2 Design](3-Development/3.2-Design.md)
