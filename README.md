@@ -13,7 +13,7 @@ This is a self-guided course on basic blockchain concepts and a tutorial for des
 ### [2.1 Blocks](2-Fundamentals/2.1-Blocks.md)
 ### [2.2 Transactions](2-Fundamentals/2.2-Transactions.md)
 ### [2.3 Script](2-Fundamentals/2.3-Script.md)
-### [2.4 Addresses](2-Fundamentals/2.3-Script.md)
+### [2.4 Addresses](2-Fundamentals/2.3-Transactions.md)
 ### [2.5 Mining](2-Fundamentals/2.3-Mining.md)
 
 # 3 - Development
