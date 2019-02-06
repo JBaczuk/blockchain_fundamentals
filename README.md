@@ -3,7 +3,7 @@ This is a self-guided course on basic blockchain concepts and a tutorial for des
 
 ## Section 1
 
-### 1.1 Introduction
+### [1.1 Introduction](1-Introduction/1.1-Introduction.md)
 ### 1.2 Blockchain
 ### 1.3 Setup
 ### 1.4 Bitcoin
