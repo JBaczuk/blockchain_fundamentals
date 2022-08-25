@@ -1,5 +1,5 @@
 # Blockchain Fundamentals
-This is a self-guided course on basic blockchain concepts and a tutorial for designing your own Bitcoin-based blockchain. Supporting videos are available on Udemy® at [Blockchain Fundamentals](https://www.udemy.com/create-your-own-blockchain/)
+This is a self-guided course on basic blockchain concepts and a tutorial for designing your own Bitcoin-based blockchain. Supporting videos are available on Udemy® at [Blockchain Fundamentals](https://www.udemy.com/course/create-your-own-blockchain/?referralCode=9A52F48CA8455AC77928)
 
 ## 1 - Introduction
 
